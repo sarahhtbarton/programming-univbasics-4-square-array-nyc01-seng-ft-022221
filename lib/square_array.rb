@@ -3,6 +3,10 @@ def square_array(array)
   squared_array = []
   
   
+while count < array.length do
+    new_array.push(array[count].to_s)
+    count += 1 
+  end
   
   return squared_array
 end
