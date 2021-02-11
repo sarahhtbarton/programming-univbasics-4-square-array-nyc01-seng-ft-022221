@@ -1,9 +1,8 @@
 def square_array(array)
-  counter = 
+  counter = 0
   squared_array = []
   
-  
-while count < array.length do
+  while counter < array.length do
     new_array.push(array[count].to_s)
     count += 1 
   end
